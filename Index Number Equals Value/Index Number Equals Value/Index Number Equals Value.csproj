@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{800F4FAB-4222-4380-AE96-E9863C13995E}</ProjectGuid>
+    <ProjectGuid>{4AD2B850-F96A-4663-B5BF-11F122EB5EB0}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Unique_Value_in_an_Array_of_Duplicates</RootNamespace>
-    <AssemblyName>Unique_Value in an Array of Duplicates</AssemblyName>
+    <RootNamespace>Index_Number_Equals_Value</RootNamespace>
+    <AssemblyName>Index Number Equals Value</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="OtherSolution.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
