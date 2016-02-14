@@ -15,7 +15,7 @@ namespace Unique_Value_in_an_Array_of_Duplicates
     {
         static void Main(string[] args)
         {
-            //Given
+            //Example Array:
             int[] arrayA = new int[] { 1, 1, 3, 3, 4, 5, 5, 7, 7, 8, 8 };
 
             int[] arrayU = new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
@@ -57,7 +57,8 @@ namespace Unique_Value_in_an_Array_of_Duplicates
 //Let's find the midpoint once again.  There are 5 elements, indexed 0-->4.  4/2=2.  arrayA[2]=3.
 //Let's look at the value to the right of index 2, which is index 3.  arrayA[3] = 3.
 //The arrayA[3]=3 which matches arrayA[2]=3.
-//Since we have an even number of elements to our left and a single odd element to our right, we know that the unique value must be at index 4.
+//Since we have an even number of elements to our left and a single odd element to our right...
+//...we know that the unique value must be at index 4.
 
 
 
