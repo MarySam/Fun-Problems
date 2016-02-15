@@ -10,6 +10,7 @@ namespace Array_Where_Diff_Btwn_Adjacent_is_One
 //           Take this difference and add it to the index value.
 //           Look up the value of the array at this new index number.
 //           If not found then repeat the steps above.
+//Efficiency: ?
 // Example:  Find the element 4.
 //       Array A:     { 3, 2, 1, 2, 3, 4, 3, 4, 5}
 //       Index Value:   0  1  2  3  4  5  6  7  8    
