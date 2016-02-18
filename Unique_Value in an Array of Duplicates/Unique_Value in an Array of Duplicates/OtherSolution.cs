@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Unique_Value_in_an_Array_of_Duplicates
 //SORTED ARRAY
-//Assumptions:  The array contains only one unique value where all other elements appear twice one after another.
+//Problem: Find the element that appears once in a sorted array where all other elements appear twice one after another. 
+//         Find that element in 0(logn) complexity.
 //Solution: 
 //Efficiency: O(log(n)).
 
@@ -17,36 +18,38 @@ namespace Unique_Value_in_an_Array_of_Duplicates
         {
             //Example Array:
             int[] arrayA = new int[] { 1, 1, 3, 3, 4, 5, 5, 7, 7, 8, 8 };
+            //                         0  1  2  3  4  5  6  7  8  9  10
+            int start = 0;
+            int end = (arrayA.Length - 1);
+            int mp = ((start + end) / 2);
+            int mpRight = (mp + 1);
 
-            int[] arrayU = new int[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 };
+                if (arrayA[mp] == arrayA[mpRight])
 
-            //Find the midpoint of the index.
-            int mp1 = (arrayA.Length / 2);
-            //Look up the value at the index value and put it in a variable.
-            int val1 = arrayA[mp1];
-            //Read the value out.
-            Console.WriteLine("The value at index {0} is {1}", mp1, arrayA[val1]);
+                {
+                    end = mp - 1;
+                    mp = ((start + end) / 2);
+                    Console.WriteLine("Start Index: {0}. End Index: {1}", start, end);
+                }
+
+                else
+                {
+                    start = mp + 1;
+                    mp = ((start + end) / 2);
+                    Console.WriteLine("Start Index: {0}. End Index: {1}", start, end);
+                }
+
+
+            
+
+
+
+            Console.WriteLine("The unique value is {0}", arrayA[mp]);
             Console.ReadLine();
-
-            arrayU[mp1] = arrayA[mp1];
-            foreach (int item in arrayU)
-            Console.WriteLine(item.ToString());
-            Console.ReadLine();
-
-            //Now lets look at up the value at index 6.
-            int val2 = arrayA[mp1 + 1];
-         
-            //Read the value out
-            Console.WriteLine("The value at index {0} is {1}", mp1 + 1, arrayA[val2]);
-            Console.ReadLine();
-
-            if (arrayA[mp1] == arrayA[mp1 + 1])
-            {
-
-            }
         }
     }
 }
+
 
 //First, let's find the midpoint. There are 11 elements, indexed 0-->10.  Index 10/2 = Index 5.  arrayA[5] =5.    
 //Now, let's look at the value to the right of index 5 at index 6.  arrayA[6] = 5.
