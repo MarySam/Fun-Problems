@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find Missing Parens", "Find Missing Parens\Find Missing Parens.csproj", "{55B79A96-3816-41E3-93E0-D3820DF812F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MissingParens_Stacks", "MissingParens_Stacks\MissingParens_Stacks.csproj", "{F7BDC892-CAAD-415D-97D5-298F1BA7EE28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55B79A96-3816-41E3-93E0-D3820DF812F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55B79A96-3816-41E3-93E0-D3820DF812F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55B79A96-3816-41E3-93E0-D3820DF812F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55B79A96-3816-41E3-93E0-D3820DF812F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7BDC892-CAAD-415D-97D5-298F1BA7EE28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7BDC892-CAAD-415D-97D5-298F1BA7EE28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7BDC892-CAAD-415D-97D5-298F1BA7EE28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7BDC892-CAAD-415D-97D5-298F1BA7EE28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace ReverseAStack
 //Problem:  Reverse a stack and put the reversed value back in the same stack. 
-//You can use only one other stack and a temp variable.
+//          You can use only one other stack and a temp variable.
 //Solution:  One outer for loop and 2 inner for loops.
 //Efficiency: O(n^2).
 
