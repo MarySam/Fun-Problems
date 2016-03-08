@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace MissingParens_Stacks
+//Efficieny:  O(n) but more memory would be used.
 {
     class Program
     {

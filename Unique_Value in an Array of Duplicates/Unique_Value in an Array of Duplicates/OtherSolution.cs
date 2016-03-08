@@ -39,11 +39,6 @@ namespace Unique_Value_in_an_Array_of_Duplicates
                     Console.WriteLine("Start Index: {0}. End Index: {1}", start, end);
                 }
 
-
-            
-
-
-
             Console.WriteLine("The unique value is {0}", arrayA[mp]);
             Console.ReadLine();
         }
