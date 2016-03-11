@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\MissingParens_Stacks\bin\Debug\MissingParens_Stacks.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\MissingParens_Stacks\bin\Debug\MissingParens_Stacks.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\MissingParens_Stacks\bin\Debug\MissingParens_Stacks.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\MissingParens_Stacks\obj\Debug\MissingParens_Stacks.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\MissingParens_Stacks\obj\Debug\MissingParens_Stacks.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\MissingParens_Stacks\obj\Debug\MissingParens_Stacks.pdb

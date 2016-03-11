@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\Find Missing Parens\bin\Debug\Find Missing Parens.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\Find Missing Parens\bin\Debug\Find Missing Parens.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\Find Missing Parens\bin\Debug\Find Missing Parens.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\Find Missing Parens\obj\Debug\Find Missing Parens.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\Find Missing Parens\obj\Debug\Find Missing Parens.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Find Missing Parens\Find Missing Parens\obj\Debug\Find Missing Parens.pdb

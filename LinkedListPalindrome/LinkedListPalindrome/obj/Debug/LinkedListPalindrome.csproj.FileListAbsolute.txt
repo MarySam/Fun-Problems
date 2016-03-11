@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedListPalindrome\LinkedListPalindrome\bin\Debug\LinkedListPalindrome.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedListPalindrome\LinkedListPalindrome\bin\Debug\LinkedListPalindrome.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedListPalindrome\LinkedListPalindrome\bin\Debug\LinkedListPalindrome.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedListPalindrome\LinkedListPalindrome\obj\Debug\LinkedListPalindrome.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedListPalindrome\LinkedListPalindrome\obj\Debug\LinkedListPalindrome.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedListPalindrome\LinkedListPalindrome\obj\Debug\LinkedListPalindrome.pdb
