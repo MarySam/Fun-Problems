@@ -37,7 +37,7 @@ namespace ReverseALinkedListIteratively
 
             listA.Head = prev;
 
-            Console.WriteLine("ListA has been flipped!!! =D");
+            Console.WriteLine("ListA has been reversed");
             DisplayLinkedList(listA);
         }
 
@@ -56,6 +56,4 @@ namespace ReverseALinkedListIteratively
             Console.ReadLine();
         }
     }
-
-
 }
