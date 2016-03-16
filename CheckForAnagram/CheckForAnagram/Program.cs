@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 //2.  Given two strings, write a method to decide if one is a permutation of the other?
 //Solution:  Use a dictionary.
+//Efficieny:  O(n)
 
 namespace CheckForAnagram
 {
