@@ -14,7 +14,6 @@ namespace _1_StringAllUniqueCharacters
     {
         static void Main(string[] args)
         {
-
             Console.Write("Please enter a word: ");
             string userInput = Console.ReadLine();
 
@@ -30,11 +29,9 @@ namespace _1_StringAllUniqueCharacters
                     isUnique = false;
                     Console.WriteLine("The HashTable already contains {0}", c);
                     break;
-
                 }
                 else
                 {
-
                     Console.WriteLine("The letter {0} was added into the HashTable", c);
                 }
             }
