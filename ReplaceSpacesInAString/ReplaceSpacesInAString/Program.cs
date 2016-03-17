@@ -16,7 +16,7 @@ namespace ReplaceSpacesInAString
         static void Main(string[] args)
         {
             string sentence = "I love ice cream.";
-            string insert = "%20";
+            string replaceWith = "%20";
             int spaceCount = 0;
 
             foreach (char c in sentence)
@@ -27,7 +27,7 @@ namespace ReplaceSpacesInAString
                 }
             }
 
-            int count = (sentence.Length + ((insert.Length - 1) * spaceCount));
+            int count = (sentence.Length + ((replaceWith.Length - 1) * spaceCount));
 
             char[] myArray = new char[count];
 
@@ -36,7 +36,7 @@ namespace ReplaceSpacesInAString
             {
                 if (sentence[i] == ' ')
                 {
-                    foreach (char c in insert)
+                    foreach (char c in replaceWith)
                     {
                         myArray[arrayIndex] = c;
                         arrayIndex++;
