@@ -12,37 +12,41 @@ namespace RemoveSpacesofAStringInOnePass
         {
 
             char[] mySentence = { 'I', ' ', 'l', 'o', 'v', 'e', ' ', 'i', 'c', 'e', ' ', 'c', 'r', 'e', 'a', 'm', '.', };
-            char[] result = RemoveSpaces(mySentence);
-
             foreach (char c in mySentence)
             {
                 Console.Write("{0}", c);
             }
 
-            foreach (char c in result)
+            char[] updatedSentence = RemoveSpaces(mySentence);
+            foreach (char c in updatedSentence)
             {
                 Console.Write("{0}", c);
-               
             }
             Console.ReadLine();
         }
 
-        public static char[] RemoveSpaces(char[] sentence)
+        public static char[] RemoveSpaces(char[] mySentence)
         {
-            char[] mySentence = new char[sentence.Length];
+            char[] updatedSentence = new char[mySentence.Length];
 
             int count = 0;
+            int spaces = 0;
 
-            for (int i = 0; i < mySentence.Length; i++)
+            for (int i = 0; i <= mySentence.Length - 1; i++)
             {
-                if (sentence[i] != ' ')
+                if (mySentence[i] != ' ')
                 {
-                    mySentence[count] = sentence[i];
+                    updatedSentence[count] = mySentence[i];
                     count++;
                 }
-                mySentence[count] = '\0';
+                else
+                {
+                    updatedSentence[count] = '\0';
+                    spaces++;
+                }
             }
-            return mySentence;
+
+            return updatedSentence;
         }
     }
 }
