@@ -91,26 +91,20 @@ namespace BST_PostOrderTraversal
                     myStack.Push(current);
                     current = current.left;
                 }
-
                 else if (current.right != null && myHash.Add(current.right))
                 {
-
                     myStack.Push(current);
                     current = current.right;
-
                 }
-
                 else if (myStack.Count == 0)
                 {
                     Console.WriteLine("Post-Order: {0}", current.value);
                     break;
                 }
-
                 else
                 {
                     Console.WriteLine("Post-Order: {0}", current.value);
                     current = myStack.Pop();
-
                 }
             }
         }
@@ -123,7 +117,7 @@ namespace BST_PostOrderTraversal
             {
                 postOrderRecur(current.left);
                 postOrderRecur(current.right);
-                Console.WriteLine("PreOrder: {0}", current.value);
+                Console.WriteLine("Post-Order: {0}", current.value);
             }
         }
 
@@ -138,7 +132,7 @@ namespace BST_PostOrderTraversal
             myTree.Insert(12);
 
             postOrder(myTree.root);
-            postOrderRecur(myTree.root);
+            //postOrderRecur(myTree.root);
             Console.ReadLine();
         }
     }
