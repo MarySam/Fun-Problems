@@ -22,7 +22,6 @@ namespace RotatedArray
             int start = 0;
             int end = A.Length - 1;
 
-
             while (start <= end)
             {
                 int mp = ((start + end) / 2);
