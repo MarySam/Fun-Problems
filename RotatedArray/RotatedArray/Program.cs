@@ -10,10 +10,9 @@ namespace RotatedArray
     {
         static void Main(string[] args)
         {
-            int[] myArray = new int[] { 4, 5, 6, 7, 8, 9, 10, 1, 2, 3 };
-            //RotatedArray(myArray, 2);
+            int[] myArray = new int[] { 14, 25, 36, 77, 80, 95, 100, 1, 2, 3 };
 
-            Console.WriteLine("{0}", RotatedArray(myArray, 6));
+            Console.WriteLine("Index:  {0}", RotatedArray(myArray, 100));
             Console.ReadLine();
         }
 
@@ -29,6 +28,7 @@ namespace RotatedArray
                 {
                     return mp;
                 }
+               
                 if (A[start] <= A[mp])
                 {
                     if (A[start] <= Number && Number <= A[mp])
