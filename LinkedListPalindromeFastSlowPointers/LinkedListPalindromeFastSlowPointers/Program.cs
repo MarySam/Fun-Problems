@@ -11,7 +11,5 @@ namespace LinkedListPalindromeFastSlowPointers
         static void Main(string[] args)
         {
         }
-
-
     }
 }
