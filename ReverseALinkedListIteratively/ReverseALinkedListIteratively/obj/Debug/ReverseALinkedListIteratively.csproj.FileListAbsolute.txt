@@ -1,6 +1,0 @@
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseALinkedListIteratively\ReverseALinkedListIteratively\bin\Debug\ReverseALinkedListIteratively.exe.config
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseALinkedListIteratively\ReverseALinkedListIteratively\bin\Debug\ReverseALinkedListIteratively.exe
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseALinkedListIteratively\ReverseALinkedListIteratively\bin\Debug\ReverseALinkedListIteratively.pdb
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseALinkedListIteratively\ReverseALinkedListIteratively\obj\Debug\ReverseALinkedListIteratively.csprojResolveAssemblyReference.cache
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseALinkedListIteratively\ReverseALinkedListIteratively\obj\Debug\ReverseALinkedListIteratively.exe
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseALinkedListIteratively\ReverseALinkedListIteratively\obj\Debug\ReverseALinkedListIteratively.pdb

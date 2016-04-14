@@ -1,6 +1,0 @@
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Unique_Value in an Array of Duplicates\Unique_Value in an Array of Duplicates\bin\Debug\Unique_Value in an Array of Duplicates.exe.config
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Unique_Value in an Array of Duplicates\Unique_Value in an Array of Duplicates\bin\Debug\Unique_Value in an Array of Duplicates.exe
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Unique_Value in an Array of Duplicates\Unique_Value in an Array of Duplicates\bin\Debug\Unique_Value in an Array of Duplicates.pdb
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Unique_Value in an Array of Duplicates\Unique_Value in an Array of Duplicates\obj\Debug\Unique_Value in an Array of Duplicates.csprojResolveAssemblyReference.cache
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Unique_Value in an Array of Duplicates\Unique_Value in an Array of Duplicates\obj\Debug\Unique_Value in an Array of Duplicates.exe
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Unique_Value in an Array of Duplicates\Unique_Value in an Array of Duplicates\obj\Debug\Unique_Value in an Array of Duplicates.pdb
