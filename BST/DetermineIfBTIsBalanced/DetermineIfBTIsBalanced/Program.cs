@@ -40,25 +40,37 @@ namespace DetermineIfBTIsBalanced
 
         private static int checkBalance(Node current)
         {
-            if (current == null) return 0;
+            Console.WriteLine("checkBalance({0})", current == null ? "null" : current.value.ToString());
+
+            if (current == null)
+            {
+                Console.WriteLine("checkBalance({0}) == {1}", current == null ? "null" : current.value.ToString(), 0);
+                return 0;
+            }
             int leftHeight = checkBalance(current.left);
             if (leftHeight == -1)
             {
+                Console.WriteLine("checkBalance({0}) == {1}", current == null ? "null" : current.value.ToString(), -1);
                 return -1;
             }
 
             int rightHeight = checkBalance(current.right);
             if (rightHeight == -1)
             {
+                Console.WriteLine("checkBalance({0}) == {1}", current == null ? "null" : current.value.ToString(), -1);
                 return -1;
             }
 
             if (Math.Abs(leftHeight - rightHeight) > 1)
             {
+                Console.WriteLine("checkBalance({0}) == {1}", current == null ? "null" : current.value.ToString(), -1);
                 return -1;
             }
 
-            return (Math.Max(leftHeight, rightHeight) + 1);
+            int currentHeight = Math.Max(leftHeight, rightHeight) + 1;
+
+            Console.WriteLine("checkBalance({0}) == {1}", current == null ? "null" : current.value.ToString(), currentHeight);
+            return currentHeight;
         }
 
         public static bool checkIfBalanced(Node root)

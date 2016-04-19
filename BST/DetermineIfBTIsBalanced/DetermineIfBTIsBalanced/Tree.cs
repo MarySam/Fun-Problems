@@ -8,8 +8,6 @@ namespace DetermineIfBTIsBalanced
 {
     class Tree
     {
-        
-
         public Node root;
 
         //constructor
