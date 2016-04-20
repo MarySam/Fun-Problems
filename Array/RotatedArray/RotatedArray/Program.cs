@@ -52,7 +52,6 @@ namespace RotatedArray
                         end = mp - 1;
                     }
                 }
-
             }
             return -1;
         }
