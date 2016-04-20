@@ -43,7 +43,7 @@ namespace Index_Number_Equals_Value //"Magic Index"
                     s = mp + 1;
                 }
 
-                else if (mp < arrayA[mp])
+                else 
                 {
                     e = mp - 1;
                 }
