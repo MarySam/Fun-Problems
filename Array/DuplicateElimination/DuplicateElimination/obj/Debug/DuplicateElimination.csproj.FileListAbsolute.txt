@@ -10,3 +10,6 @@ C:\Users\Mary\Documents\Kal Academy\Fun-Problems\DuplicateElimination\DuplicateE
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.exe
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.pdb
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\DuplicateElimination\DuplicateElimination\obj\Debug\DuplicateElimination.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\DuplicateElimination\DuplicateElimination\bin\Debug\DuplicateElimination.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\DuplicateElimination\DuplicateElimination\obj\Debug\DuplicateElimination.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\DuplicateElimination\DuplicateElimination\obj\Debug\DuplicateElimination.pdb

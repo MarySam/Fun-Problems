@@ -20,47 +20,41 @@ namespace Index_Number_Equals_Value //"Magic Index"
         static void Main(string[] args)
         {
             int[] arrayA = new int[] { -8, -6, 0, 1, 2, 3, 4, 7, 10, 12, 14 };
-            int start = 0;
-            int end = (arrayA.Length - 1);
-            int mp = ((start + end) / 2);
-
-            Console.WriteLine("Start Index: {0}. End Index: {1}", start, end);
-            while (arrayA[mp] != mp)
-            {
-                if (start == end)
-                {
-                    mp = -1;
-                    break;
-                }
-
-                if (arrayA[mp] < mp)
-                {
-                    start = mp+1;
-                    mp = ((start + end) / 2);
-                    Console.WriteLine("Start Index: {0}. End Index: {1}", start, end);
-                    continue;
-                }
-
-                if (arrayA[mp] > mp)
-                {
-                    end = mp-1;
-                    mp = ((start + end) / 2);
-                    Console.WriteLine("Start Index: {0}. End Index: {1}", start, end);
-                    continue;
-                }
-            }
-            if (mp == -1)
-            {
-                Console.WriteLine("The magic number does not exist");
-            }
-            else
-            {
-                Console.WriteLine("The magic index is {0}", mp);
-            }
+            int result = magicIndex(arrayA);
+            Console.WriteLine("{0}", result);
             Console.ReadLine();
+        }
+
+        public static int magicIndex(int[] arrayA)
+        {
+            int s = 0;
+            int e = (arrayA.Length - 1);
+            int mp = ((s + e) / 2);
+
+            while (s <= e)
+            {
+                if (arrayA[mp] == mp)
+                {
+                    return mp;
+                }
+
+                if (mp > arrayA[mp])
+                {
+                    s = mp + 1;
+                }
+
+                else if (mp < arrayA[mp])
+                {
+                    e = mp - 1;
+                }
+
+                mp = ((s + e) / 2);
+            }
+            return -1;
         }
     }
 }
+
 
 //Step 1 is to perform a binary search and jump to the middle of the index.
 //Index is from 0 --> 10.  The midpoint is (10/2) = 5.

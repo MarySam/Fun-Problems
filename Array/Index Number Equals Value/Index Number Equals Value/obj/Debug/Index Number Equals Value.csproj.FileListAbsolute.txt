@@ -4,3 +4,9 @@ C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Index Number Equals Value\Index
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Index Number Equals Value\Index Number Equals Value\obj\Debug\Index Number Equals Value.csprojResolveAssemblyReference.cache
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Index Number Equals Value\Index Number Equals Value\obj\Debug\Index Number Equals Value.exe
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Index Number Equals Value\Index Number Equals Value\obj\Debug\Index Number Equals Value.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Index Number Equals Value\Index Number Equals Value\bin\Debug\Index Number Equals Value.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Index Number Equals Value\Index Number Equals Value\obj\Debug\Index Number Equals Value.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Index Number Equals Value\Index Number Equals Value\obj\Debug\Index Number Equals Value.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Index Number Equals Value\Index Number Equals Value\bin\Debug\Index Number Equals Value.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Index Number Equals Value\Index Number Equals Value\bin\Debug\Index Number Equals Value.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Index Number Equals Value\Index Number Equals Value\obj\Debug\Index Number Equals Value.csprojResolveAssemblyReference.cache
