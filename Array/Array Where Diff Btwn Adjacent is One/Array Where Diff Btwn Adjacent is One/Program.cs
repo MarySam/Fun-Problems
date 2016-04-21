@@ -21,35 +21,30 @@ namespace Array_Where_Diff_Btwn_Adjacent_is_One
     {
         static void Main(string[] args)
         {
-            int[] arrayA = new int[] { 3, 2, 1, 2, 3, 2, 3, 4, 5 };
-            int i = 0;
-            int searchValue = GetUserInt();
-
-            while (i < arrayA.Length && arrayA[i] != searchValue)
-            {
-                int diff = Math.Abs(arrayA[i] - searchValue);
-                i = i + diff;
-
-                Console.WriteLine("Didn't find element at index {0}. Looking at index {1} next.", i - diff, i);
-            }
-
-            if (i >= arrayA.Length)
-            {
-                Console.WriteLine("The element {0} was not found", searchValue);
-            }
-            else
-            {
-                Console.WriteLine("The element {0} was found at index {1}", searchValue, i);
-            }
-
+            int[] arrayA = new int[] { 8,7,6,7,6,5,4,3,2,3,4,3 };
+            int result = SearchFor(arrayA, 3);
+            Console.WriteLine("{0}", result);
             Console.ReadLine();
         }
 
-        private static int GetUserInt()
+        public static int SearchFor(int[] array, int Num)
         {
-            Console.Write("Please enter the value to search for: ");
-            string userInput = Console.ReadLine();
-            return int.Parse(userInput);
+            int i = 0;
+            while (i < array.Length && array[i] != Num)
+            {
+                int diff = Math.Abs(array[i] - Num);
+                i = i + diff;
+            }
+                if( i>= array.Length)
+                {
+                    return -1;
+                }
+
+                else
+                {
+                    return i;
+                }
+            }
         }
     }
-}
+

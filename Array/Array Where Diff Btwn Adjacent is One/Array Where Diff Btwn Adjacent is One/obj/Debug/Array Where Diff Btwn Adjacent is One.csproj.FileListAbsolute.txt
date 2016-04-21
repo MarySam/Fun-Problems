@@ -4,3 +4,9 @@ C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array Where Diff Btwn Adjacent 
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array Where Diff Btwn Adjacent is One\Array Where Diff Btwn Adjacent is One\obj\Debug\Array Where Diff Btwn Adjacent is One.csprojResolveAssemblyReference.cache
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array Where Diff Btwn Adjacent is One\Array Where Diff Btwn Adjacent is One\obj\Debug\Array Where Diff Btwn Adjacent is One.exe
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array Where Diff Btwn Adjacent is One\Array Where Diff Btwn Adjacent is One\obj\Debug\Array Where Diff Btwn Adjacent is One.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Array Where Diff Btwn Adjacent is One\Array Where Diff Btwn Adjacent is One\bin\Debug\Array Where Diff Btwn Adjacent is One.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Array Where Diff Btwn Adjacent is One\Array Where Diff Btwn Adjacent is One\obj\Debug\Array Where Diff Btwn Adjacent is One.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Array Where Diff Btwn Adjacent is One\Array Where Diff Btwn Adjacent is One\obj\Debug\Array Where Diff Btwn Adjacent is One.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Array Where Diff Btwn Adjacent is One\Array Where Diff Btwn Adjacent is One\bin\Debug\Array Where Diff Btwn Adjacent is One.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Array Where Diff Btwn Adjacent is One\Array Where Diff Btwn Adjacent is One\bin\Debug\Array Where Diff Btwn Adjacent is One.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Array Where Diff Btwn Adjacent is One\Array Where Diff Btwn Adjacent is One\obj\Debug\Array Where Diff Btwn Adjacent is One.csprojResolveAssemblyReference.cache
