@@ -12,30 +12,23 @@ namespace Find_Missing_Parens
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void MissParens(string Expression)
         {
-            //Console.WriteLine("Please enter an expression");
-            //string expression = Console.ReadLine();
-
-            string expression = "((2*(3+4)*(5+6))";
             int openParens = 0;
             int closeParens = 0;
-
-            for (int i = 0; i < expression.Length; i++)
+            int i = 0;
+            while (i < Expression.Length)
             {
-                if (expression[i] == '(')
+                if (Expression[i] == '(')
                 {
                     openParens = openParens + 1;
                 }
-
-                if (expression[i] == ')')
+                if (Expression[i] == ')')
                 {
                     closeParens = closeParens + 1;
                 }
-
+                i++;
             }
-
-            Console.WriteLine("openParens: {0} closeParens: {1}", openParens, closeParens);
 
             if (openParens > closeParens)
             {
@@ -54,6 +47,12 @@ namespace Find_Missing_Parens
                 Console.WriteLine("We are not missing any parens");
             }
 
+        }
+
+        static void Main(string[] args)
+        {
+            string Expression = "((2*(3+4)*(5+6))";
+            MissParens(Expression);
             Console.ReadLine();
         }
     }
