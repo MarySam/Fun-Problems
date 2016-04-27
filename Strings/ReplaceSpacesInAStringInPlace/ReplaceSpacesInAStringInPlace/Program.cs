@@ -15,8 +15,8 @@ namespace ReplaceSpacesInAStringInPlace
             string sentence = Console.ReadLine();
             Console.WriteLine("Please enter some characters to replace the spaces: ");
             string replaceWith = Console.ReadLine();
-
-            char[] updatedSentence = replaceSpaces(sentence, replaceWith);
+            char[] updatedSentence = addSpaces(sentence, replaceWith);
+            replaceSpaces(updatedSentence, replaceWith);
 
             foreach (char c in updatedSentence)
             {
@@ -26,19 +26,23 @@ namespace ReplaceSpacesInAStringInPlace
 
         }
 
-        public static char[] replaceSpaces(string sentence, string replaceWith)
+        public static void replaceSpaces(char[] updatedSentence, string replaceWith)
         {
-            char[] updatedSentence = addSpaces(sentence, replaceWith);
-
-            int sentenceIndex = sentence.Length - 1;
             int insertIndex = updatedSentence.Length - 1;
-            int replaceWithIndex = replaceWith.Length - 1;
-
-            for (sentenceIndex = sentence.Length - 1; sentenceIndex >= 0; sentenceIndex--)
+            int sentenceLength = 0;
+            for(int i = insertIndex; i>=0; i--)
             {
-                if (sentence[sentenceIndex] == ' ')
+                if(updatedSentence[i] != ' ')
                 {
-                    for (int i = replaceWithIndex; i >= 0; i--)
+                    sentenceLength = i + 1;
+                }
+            }
+
+            for (int sentenceIndex = sentenceLength-1; sentenceIndex >= 0; sentenceIndex--)
+            {
+                if (updatedSentence[sentenceIndex] == ' ')
+                {
+                    for (int i = replaceWith.Length - 1; i >= 0; i--)
                     {
                         updatedSentence[insertIndex] = replaceWith[i];
                         insertIndex--;
@@ -46,12 +50,11 @@ namespace ReplaceSpacesInAStringInPlace
                 }
                 else
                 {
-                    updatedSentence[insertIndex] = sentence[sentenceIndex];
+                    updatedSentence[insertIndex] = updatedSentence[sentenceIndex];
                     insertIndex--;
                 }
             }
 
-            return updatedSentence;
         }
 
         public static char[] addSpaces(string sentence, string replaceWith)
@@ -68,6 +71,7 @@ namespace ReplaceSpacesInAStringInPlace
             int count = (sentence.Length + ((replaceWith.Length - 1) * spaceCount));
 
             char[] updatedSentence = new char[count];
+            sentence.CopyTo(0, updatedSentence, 0, sentence.Length);
 
             return updatedSentence;
         }
