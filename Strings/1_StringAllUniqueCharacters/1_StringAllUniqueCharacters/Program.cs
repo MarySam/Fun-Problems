@@ -12,38 +12,34 @@ namespace _1_StringAllUniqueCharacters
 {
     class Program
     {
-        static void Main(string[] args)
+        public static Boolean IsUnique(string word)
         {
-            Console.Write("Please enter a word: ");
-            string userInput = Console.ReadLine();
+            HashSet<char> myHash = new HashSet<char>();
 
-            HashSet<char> myHashSet = new HashSet<char>();
-
-            bool isUnique = true;
-            foreach (char c in userInput)
+            bool result = true;
+            foreach(char c in word)
             {
-                bool didAdd = myHashSet.Add(c);
-
+                bool didAdd = myHash.Add(c);
                 if (didAdd == false)
                 {
-                    isUnique = false;
-                    Console.WriteLine("The HashTable already contains {0}", c);
+                    result = false;
                     break;
                 }
+
                 else
                 {
-                    Console.WriteLine("The letter {0} was added into the HashTable", c);
+                    //redundant since result was already set to true
+                    result = true;
                 }
             }
 
-            if (isUnique == true)
-            {
-                Console.WriteLine("The word has all unique characters");
-            }
-            else
-            {
-                Console.WriteLine("The word does NOT have all unique characters");
-            }
+            return result;
+        }
+
+        static void Main(string[] args)
+        {
+            bool result = IsUnique("abcdeff");
+            Console.WriteLine("{0}", result);
             Console.ReadLine();
         }
     }
