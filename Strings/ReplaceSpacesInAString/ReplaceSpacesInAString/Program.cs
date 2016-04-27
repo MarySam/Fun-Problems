@@ -13,48 +13,51 @@ namespace ReplaceSpacesInAString
 {
     class Program
     {
-        static void Main(string[] args)
+        public static char[] replaceSpaces(string sentence, string replacewith)
         {
-            string sentence = "I love ice cream.";
-            string replaceWith = "%20";
-            int spaceCount = 0;
-
+            int spacecount = 0;
             foreach (char c in sentence)
             {
                 if (c == ' ')
                 {
-                    spaceCount++;
+                    spacecount++;
                 }
             }
 
-            int count = (sentence.Length + ((replaceWith.Length - 1) * spaceCount));
+            int totalspaces = sentence.Length + ((replacewith.Length - 1) * spacecount);
 
-            char[] myArray = new char[count];
-
-            int arrayIndex = 0;
+            //Now we have a char array with the appropriate number of spaces with nothing in it.
+            //Let's copy over from 'sentence' when we do not see a space and insert %20 when we see a space. 
+            //Lets start at index 0 of our updatedsentence.
+            char[] newSentence = new char[totalspaces];
+            int newSentenceIndex = 0;
             for (int i = 0; i < sentence.Length; i++)
             {
                 if (sentence[i] == ' ')
                 {
-                    foreach (char c in replaceWith)
+                    foreach (char c in replacewith)
                     {
-                        myArray[arrayIndex] = c;
-                        arrayIndex++;
+                        newSentence[newSentenceIndex] = c;
+                        newSentenceIndex++;
                     }
-                 }
-
+                }
                 else
                 {
-                    myArray[arrayIndex] = sentence[i];
-                    arrayIndex++;
+                    newSentence[newSentenceIndex] = sentence[i];
+                    newSentenceIndex++;
                 }
             }
-
-            foreach (char c in myArray)
+            return newSentence;
+        }
+        static void Main(string[] args)
+        {
+            char[] result = replaceSpaces("I love ice cream", "%20");
+            foreach (char c in result)
             {
-                Console.Write("{0}", c);
+                Console.WriteLine("{0}", c);
+                Console.ReadLine();
             }
-            Console.ReadLine();
+
         }
     }
 }

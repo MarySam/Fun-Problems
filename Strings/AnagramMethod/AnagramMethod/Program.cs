@@ -39,17 +39,17 @@ namespace AnagramMethod
                 return false;
             }
 
-            foreach (char s in s1)
+            foreach (char c in s1)
             {
                 //If the dictionary does not have the key, add the key and set the value to 1.
-                if (!myDictionary.ContainsKey(s))
+                if (!myDictionary.ContainsKey(c))
                 {
-                    myDictionary.Add(s, 1);
+                    myDictionary.Add(c, 1);
                 }
                 //If the dictionary already has the key, increment the value by 1.
                 else
                 {
-                    myDictionary[s]++;
+                    myDictionary[c]++;
                 }
             }
 
