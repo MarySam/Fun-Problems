@@ -11,11 +11,11 @@ namespace RemoveSpacesInAStringInPlace
         static void Main(string[] args)
         {
 
-            char[] mySentence = { 'I', ' ', 'l', 'o', 'v', 'e', ' ', 'i', 'c', 'e', ' ', 'c', 'r', 'e', 'a', 'm', '.', };
-            foreach (char c in mySentence)
-            {
-                Console.Write("{0}", c);
-            }
+            char[] mySentence = { 'I', ' ', 'l', 'o', 'v', 'e', ' ', 'c', 'o', 'd', 'i', 'n', 'g', '.'};
+            //foreach (char c in mySentence)
+            //{
+            //    Console.Write("{0}", c);
+            //}
 
             char[] updatedSentence = RemoveSpaces(mySentence);
             foreach (char c in updatedSentence)
@@ -27,22 +27,23 @@ namespace RemoveSpacesInAStringInPlace
 
         public static char[] RemoveSpaces(char[] mySentence)
         {
-            int count = 0;
+            int j = 0;
 
             for (int i = 0; i <= mySentence.Length - 1; i++)
             {
                 if (mySentence[i] != ' ')
                 {
-                    mySentence[count] = mySentence[i];
-                    count++;
+                    mySentence[j] = mySentence[i];
+                    j++;
                 }
                 else
                 {
-                    mySentence[count] = '\0';
+                    mySentence[j] = '\0';
                 }
             }
 
-            for (int i = count; i <= mySentence.Length-1; i++)
+            //Removing the last characters at the end.
+            for (int i = j; i <= mySentence.Length - 1; i++)
             {
                 mySentence[i] = '\0';
             }
