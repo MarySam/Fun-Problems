@@ -1,0 +1,5 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Unique_Value in an Array of Duplicates\FindUniqueValueBinarySearch\bin\Debug\FindUniqueValueBinarySearch.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Unique_Value in an Array of Duplicates\FindUniqueValueBinarySearch\bin\Debug\FindUniqueValueBinarySearch.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Unique_Value in an Array of Duplicates\FindUniqueValueBinarySearch\bin\Debug\FindUniqueValueBinarySearch.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Unique_Value in an Array of Duplicates\FindUniqueValueBinarySearch\obj\Debug\FindUniqueValueBinarySearch.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\Unique_Value in an Array of Duplicates\FindUniqueValueBinarySearch\obj\Debug\FindUniqueValueBinarySearch.pdb

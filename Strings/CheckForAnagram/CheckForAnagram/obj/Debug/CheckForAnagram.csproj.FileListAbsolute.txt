@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CheckForAnagram\CheckForAnagram\bin\Debug\CheckForAnagram.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CheckForAnagram\CheckForAnagram\bin\Debug\CheckForAnagram.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CheckForAnagram\CheckForAnagram\bin\Debug\CheckForAnagram.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CheckForAnagram\CheckForAnagram\obj\Debug\CheckForAnagram.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CheckForAnagram\CheckForAnagram\obj\Debug\CheckForAnagram.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CheckForAnagram\CheckForAnagram\obj\Debug\CheckForAnagram.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\CheckForAnagram\CheckForAnagram\bin\Debug\CheckForAnagram.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\CheckForAnagram\CheckForAnagram\obj\Debug\CheckForAnagram.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\CheckForAnagram\CheckForAnagram\obj\Debug\CheckForAnagram.pdb

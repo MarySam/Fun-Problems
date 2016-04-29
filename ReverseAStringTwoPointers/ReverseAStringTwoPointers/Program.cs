@@ -8,13 +8,12 @@ namespace ReverseAStringTwoPointers
 {
     class Program
     {
-        public static void ReverseAString(char[] word)
+        public static string ReverseAString(char[] word)
         {
             if (word == null)
             {
-                return;
+                return null;
             }
-
 
             int start = 0;
             int end = word.Length - 1;
@@ -28,19 +27,19 @@ namespace ReverseAStringTwoPointers
                 start++;
                 end--;
             }
+
+            string s = new string(word);
+            return s;
         }
 
 
         static void Main(string[] args)
         {
             char[] myChar = new char[] { 'c', 'a', 't' };
-            ReverseAString(myChar);
+            string result = ReverseAString(myChar);
+            Console.WriteLine("{0}", result);
+            Console.ReadLine();
 
-            foreach (char c in myChar)
-            {
-                Console.WriteLine("{0}", c);
-                Console.ReadLine();
-            }
         }
     }
 }

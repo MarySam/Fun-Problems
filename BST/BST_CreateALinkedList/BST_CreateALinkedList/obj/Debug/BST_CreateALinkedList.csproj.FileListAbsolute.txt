@@ -1,0 +1,12 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_CreateALinkedList\BST_CreateALinkedList\bin\Debug\BST_CreateALinkedList.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_CreateALinkedList\BST_CreateALinkedList\bin\Debug\BST_CreateALinkedList.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_CreateALinkedList\BST_CreateALinkedList\bin\Debug\BST_CreateALinkedList.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_CreateALinkedList\BST_CreateALinkedList\obj\Debug\BST_CreateALinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_CreateALinkedList\BST_CreateALinkedList\obj\Debug\BST_CreateALinkedList.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_CreateALinkedList\BST_CreateALinkedList\obj\Debug\BST_CreateALinkedList.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_CreateALinkedList\BST_CreateALinkedList\bin\Debug\BST_CreateALinkedList.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_CreateALinkedList\BST_CreateALinkedList\obj\Debug\BST_CreateALinkedList.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_CreateALinkedList\BST_CreateALinkedList\obj\Debug\BST_CreateALinkedList.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_CreateALinkedList\BST_CreateALinkedList\bin\Debug\BST_CreateALinkedList.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_CreateALinkedList\BST_CreateALinkedList\bin\Debug\BST_CreateALinkedList.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_CreateALinkedList\BST_CreateALinkedList\obj\Debug\BST_CreateALinkedList.csprojResolveAssemblyReference.cache

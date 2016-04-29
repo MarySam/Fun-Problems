@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_InOrderTraversal\BST_InOrderTraversal\bin\Debug\BST_InOrderTraversal.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_InOrderTraversal\BST_InOrderTraversal\bin\Debug\BST_InOrderTraversal.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_InOrderTraversal\BST_InOrderTraversal\bin\Debug\BST_InOrderTraversal.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_InOrderTraversal\BST_InOrderTraversal\obj\Debug\BST_InOrderTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_InOrderTraversal\BST_InOrderTraversal\obj\Debug\BST_InOrderTraversal.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_InOrderTraversal\BST_InOrderTraversal\obj\Debug\BST_InOrderTraversal.pdb

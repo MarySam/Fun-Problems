@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAString\ReverseAString\bin\Debug\ReverseAString.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAString\ReverseAString\bin\Debug\ReverseAString.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAString\ReverseAString\bin\Debug\ReverseAString.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAString\ReverseAString\obj\Debug\ReverseAString.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAString\ReverseAString\obj\Debug\ReverseAString.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAString\ReverseAString\obj\Debug\ReverseAString.pdb

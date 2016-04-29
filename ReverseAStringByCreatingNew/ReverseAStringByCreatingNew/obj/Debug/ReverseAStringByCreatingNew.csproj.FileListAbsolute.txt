@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringByCreatingNew\ReverseAStringByCreatingNew\bin\Debug\ReverseAStringByCreatingNew.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringByCreatingNew\ReverseAStringByCreatingNew\bin\Debug\ReverseAStringByCreatingNew.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringByCreatingNew\ReverseAStringByCreatingNew\bin\Debug\ReverseAStringByCreatingNew.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringByCreatingNew\ReverseAStringByCreatingNew\obj\Debug\ReverseAStringByCreatingNew.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringByCreatingNew\ReverseAStringByCreatingNew\obj\Debug\ReverseAStringByCreatingNew.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringByCreatingNew\ReverseAStringByCreatingNew\obj\Debug\ReverseAStringByCreatingNew.pdb

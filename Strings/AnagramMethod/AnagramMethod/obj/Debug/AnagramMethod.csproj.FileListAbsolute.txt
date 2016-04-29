@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\AnagramMethod\AnagramMethod\bin\Debug\AnagramMethod.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\AnagramMethod\AnagramMethod\obj\Debug\AnagramMethod.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\AnagramMethod\AnagramMethod\bin\Debug\AnagramMethod.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\AnagramMethod\AnagramMethod\bin\Debug\AnagramMethod.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\AnagramMethod\AnagramMethod\obj\Debug\AnagramMethod.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\AnagramMethod\AnagramMethod\obj\Debug\AnagramMethod.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\AnagramMethod\AnagramMethod\bin\Debug\AnagramMethod.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\AnagramMethod\AnagramMethod\obj\Debug\AnagramMethod.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\AnagramMethod\AnagramMethod\obj\Debug\AnagramMethod.pdb

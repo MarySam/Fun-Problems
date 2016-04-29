@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PostOrderTraversal\BST_PostOrderTraversal\bin\Debug\BST_PostOrderTraversal.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PostOrderTraversal\BST_PostOrderTraversal\bin\Debug\BST_PostOrderTraversal.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PostOrderTraversal\BST_PostOrderTraversal\bin\Debug\BST_PostOrderTraversal.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PostOrderTraversal\BST_PostOrderTraversal\obj\Debug\BST_PostOrderTraversal.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PostOrderTraversal\BST_PostOrderTraversal\obj\Debug\BST_PostOrderTraversal.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PostOrderTraversal\BST_PostOrderTraversal\obj\Debug\BST_PostOrderTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_PostOrderTraversal\BST_PostOrderTraversal\bin\Debug\BST_PostOrderTraversal.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_PostOrderTraversal\BST_PostOrderTraversal\obj\Debug\BST_PostOrderTraversal.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_PostOrderTraversal\BST_PostOrderTraversal\obj\Debug\BST_PostOrderTraversal.pdb

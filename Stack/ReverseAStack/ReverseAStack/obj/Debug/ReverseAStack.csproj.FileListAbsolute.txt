@@ -1,0 +1,12 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStack\ReverseAStack\bin\Debug\ReverseAStack.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStack\ReverseAStack\bin\Debug\ReverseAStack.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStack\ReverseAStack\bin\Debug\ReverseAStack.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStack\ReverseAStack\obj\Debug\ReverseAStack.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStack\ReverseAStack\obj\Debug\ReverseAStack.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStack\ReverseAStack\obj\Debug\ReverseAStack.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Stack\ReverseAStack\ReverseAStack\bin\Debug\ReverseAStack.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Stack\ReverseAStack\ReverseAStack\obj\Debug\ReverseAStack.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Stack\ReverseAStack\ReverseAStack\obj\Debug\ReverseAStack.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Stack\ReverseAStack\ReverseAStack\bin\Debug\ReverseAStack.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Stack\ReverseAStack\ReverseAStack\bin\Debug\ReverseAStack.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Stack\ReverseAStack\ReverseAStack\obj\Debug\ReverseAStack.csprojResolveAssemblyReference.cache

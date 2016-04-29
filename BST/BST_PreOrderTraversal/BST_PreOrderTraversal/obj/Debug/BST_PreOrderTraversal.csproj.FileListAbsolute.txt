@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PreOrderTraversal\BST_PreOrderTraversal\bin\Debug\BST_PreOrderTraversal.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PreOrderTraversal\BST_PreOrderTraversal\bin\Debug\BST_PreOrderTraversal.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PreOrderTraversal\BST_PreOrderTraversal\bin\Debug\BST_PreOrderTraversal.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PreOrderTraversal\BST_PreOrderTraversal\obj\Debug\BST_PreOrderTraversal.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PreOrderTraversal\BST_PreOrderTraversal\obj\Debug\BST_PreOrderTraversal.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_PreOrderTraversal\BST_PreOrderTraversal\obj\Debug\BST_PreOrderTraversal.pdb

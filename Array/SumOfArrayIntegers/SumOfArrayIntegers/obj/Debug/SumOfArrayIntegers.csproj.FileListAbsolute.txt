@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\GitHub\Fun-Problems\SumOfArrayIntegers\SumOfArrayIntegers\bin\Debug\SumOfArrayIntegers.exe.config
+C:\Users\Mary\Documents\GitHub\Fun-Problems\SumOfArrayIntegers\SumOfArrayIntegers\bin\Debug\SumOfArrayIntegers.exe
+C:\Users\Mary\Documents\GitHub\Fun-Problems\SumOfArrayIntegers\SumOfArrayIntegers\bin\Debug\SumOfArrayIntegers.pdb
+C:\Users\Mary\Documents\GitHub\Fun-Problems\SumOfArrayIntegers\SumOfArrayIntegers\obj\Debug\SumOfArrayIntegers.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\GitHub\Fun-Problems\SumOfArrayIntegers\SumOfArrayIntegers\obj\Debug\SumOfArrayIntegers.exe
+C:\Users\Mary\Documents\GitHub\Fun-Problems\SumOfArrayIntegers\SumOfArrayIntegers\obj\Debug\SumOfArrayIntegers.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SumOfArrayIntegers\SumOfArrayIntegers\bin\Debug\SumOfArrayIntegers.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SumOfArrayIntegers\SumOfArrayIntegers\obj\Debug\SumOfArrayIntegers.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SumOfArrayIntegers\SumOfArrayIntegers\obj\Debug\SumOfArrayIntegers.pdb

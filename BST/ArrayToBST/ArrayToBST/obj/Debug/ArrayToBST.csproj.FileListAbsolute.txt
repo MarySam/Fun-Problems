@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ArrayToBST\ArrayToBST\bin\Debug\ArrayToBST.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ArrayToBST\ArrayToBST\bin\Debug\ArrayToBST.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ArrayToBST\ArrayToBST\bin\Debug\ArrayToBST.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ArrayToBST\ArrayToBST\obj\Debug\ArrayToBST.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ArrayToBST\ArrayToBST\obj\Debug\ArrayToBST.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ArrayToBST\ArrayToBST\obj\Debug\ArrayToBST.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringTwoPointers\ReverseAStringTwoPointers\bin\Debug\ReverseAStringTwoPointers.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringTwoPointers\ReverseAStringTwoPointers\bin\Debug\ReverseAStringTwoPointers.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringTwoPointers\ReverseAStringTwoPointers\bin\Debug\ReverseAStringTwoPointers.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringTwoPointers\ReverseAStringTwoPointers\obj\Debug\ReverseAStringTwoPointers.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringTwoPointers\ReverseAStringTwoPointers\obj\Debug\ReverseAStringTwoPointers.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseAStringTwoPointers\ReverseAStringTwoPointers\obj\Debug\ReverseAStringTwoPointers.pdb

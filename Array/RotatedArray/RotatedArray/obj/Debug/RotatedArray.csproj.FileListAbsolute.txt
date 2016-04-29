@@ -1,0 +1,12 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RotatedArray\RotatedArray\bin\Debug\RotatedArray.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RotatedArray\RotatedArray\bin\Debug\RotatedArray.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RotatedArray\RotatedArray\bin\Debug\RotatedArray.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RotatedArray\RotatedArray\obj\Debug\RotatedArray.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RotatedArray\RotatedArray\obj\Debug\RotatedArray.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RotatedArray\RotatedArray\obj\Debug\RotatedArray.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RotatedArray\RotatedArray\bin\Debug\RotatedArray.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RotatedArray\RotatedArray\obj\Debug\RotatedArray.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RotatedArray\RotatedArray\obj\Debug\RotatedArray.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RotatedArray\RotatedArray\bin\Debug\RotatedArray.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RotatedArray\RotatedArray\bin\Debug\RotatedArray.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RotatedArray\RotatedArray\obj\Debug\RotatedArray.csprojResolveAssemblyReference.cache

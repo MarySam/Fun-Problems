@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\DetermineIfBTIsBalanced\DetermineIfBTIsBalanced\bin\Debug\DetermineIfBTIsBalanced.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\DetermineIfBTIsBalanced\DetermineIfBTIsBalanced\bin\Debug\DetermineIfBTIsBalanced.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\DetermineIfBTIsBalanced\DetermineIfBTIsBalanced\bin\Debug\DetermineIfBTIsBalanced.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\DetermineIfBTIsBalanced\DetermineIfBTIsBalanced\obj\Debug\DetermineIfBTIsBalanced.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\DetermineIfBTIsBalanced\DetermineIfBTIsBalanced\obj\Debug\DetermineIfBTIsBalanced.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\DetermineIfBTIsBalanced\DetermineIfBTIsBalanced\obj\Debug\DetermineIfBTIsBalanced.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SplitAnArray_Sum_Integers\SplitAnArray_Sum_Integers\bin\Debug\SplitAnArray_Sum_Integers.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SplitAnArray_Sum_Integers\SplitAnArray_Sum_Integers\bin\Debug\SplitAnArray_Sum_Integers.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SplitAnArray_Sum_Integers\SplitAnArray_Sum_Integers\bin\Debug\SplitAnArray_Sum_Integers.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SplitAnArray_Sum_Integers\SplitAnArray_Sum_Integers\obj\Debug\SplitAnArray_Sum_Integers.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SplitAnArray_Sum_Integers\SplitAnArray_Sum_Integers\obj\Debug\SplitAnArray_Sum_Integers.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SplitAnArray_Sum_Integers\SplitAnArray_Sum_Integers\obj\Debug\SplitAnArray_Sum_Integers.pdb

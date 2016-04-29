@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesofAStringInOnePass\RemoveSpacesofAStringInOnePass\bin\Debug\RemoveSpacesofAStringInOnePass.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesofAStringInOnePass\RemoveSpacesofAStringInOnePass\bin\Debug\RemoveSpacesofAStringInOnePass.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesofAStringInOnePass\RemoveSpacesofAStringInOnePass\bin\Debug\RemoveSpacesofAStringInOnePass.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesofAStringInOnePass\RemoveSpacesofAStringInOnePass\obj\Debug\RemoveSpacesofAStringInOnePass.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesofAStringInOnePass\RemoveSpacesofAStringInOnePass\obj\Debug\RemoveSpacesofAStringInOnePass.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesofAStringInOnePass\RemoveSpacesofAStringInOnePass\obj\Debug\RemoveSpacesofAStringInOnePass.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\RemoveSpacesofAStringInOnePass\RemoveSpacesofAStringInOnePass\bin\Debug\RemoveSpacesofAStringInOnePass.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\RemoveSpacesofAStringInOnePass\RemoveSpacesofAStringInOnePass\obj\Debug\RemoveSpacesofAStringInOnePass.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\RemoveSpacesofAStringInOnePass\RemoveSpacesofAStringInOnePass\obj\Debug\RemoveSpacesofAStringInOnePass.pdb

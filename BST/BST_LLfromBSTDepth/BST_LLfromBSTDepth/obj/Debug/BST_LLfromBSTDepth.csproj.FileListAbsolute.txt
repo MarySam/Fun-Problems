@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_LLfromBSTDepth\BST_LLfromBSTDepth\bin\Debug\BST_LLfromBSTDepth.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_LLfromBSTDepth\BST_LLfromBSTDepth\bin\Debug\BST_LLfromBSTDepth.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_LLfromBSTDepth\BST_LLfromBSTDepth\bin\Debug\BST_LLfromBSTDepth.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_LLfromBSTDepth\BST_LLfromBSTDepth\obj\Debug\BST_LLfromBSTDepth.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_LLfromBSTDepth\BST_LLfromBSTDepth\obj\Debug\BST_LLfromBSTDepth.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST_LLfromBSTDepth\BST_LLfromBSTDepth\obj\Debug\BST_LLfromBSTDepth.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_LLfromBSTDepth\BST_LLfromBSTDepth\bin\Debug\BST_LLfromBSTDepth.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_LLfromBSTDepth\BST_LLfromBSTDepth\obj\Debug\BST_LLfromBSTDepth.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BST_LLfromBSTDepth\BST_LLfromBSTDepth\obj\Debug\BST_LLfromBSTDepth.pdb

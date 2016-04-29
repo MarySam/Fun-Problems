@@ -1,0 +1,12 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInAString\ReplaceSpacesInAString\bin\Debug\ReplaceSpacesInAString.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInAString\ReplaceSpacesInAString\bin\Debug\ReplaceSpacesInAString.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInAString\ReplaceSpacesInAString\bin\Debug\ReplaceSpacesInAString.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInAString\ReplaceSpacesInAString\obj\Debug\ReplaceSpacesInAString.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInAString\ReplaceSpacesInAString\obj\Debug\ReplaceSpacesInAString.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInAString\ReplaceSpacesInAString\obj\Debug\ReplaceSpacesInAString.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\ReplaceSpacesInAString\ReplaceSpacesInAString\bin\Debug\ReplaceSpacesInAString.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\ReplaceSpacesInAString\ReplaceSpacesInAString\obj\Debug\ReplaceSpacesInAString.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\ReplaceSpacesInAString\ReplaceSpacesInAString\obj\Debug\ReplaceSpacesInAString.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\ReplaceSpacesInAString\ReplaceSpacesInAString\bin\Debug\ReplaceSpacesInAString.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\ReplaceSpacesInAString\ReplaceSpacesInAString\bin\Debug\ReplaceSpacesInAString.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\ReplaceSpacesInAString\ReplaceSpacesInAString\obj\Debug\ReplaceSpacesInAString.csprojResolveAssemblyReference.cache
