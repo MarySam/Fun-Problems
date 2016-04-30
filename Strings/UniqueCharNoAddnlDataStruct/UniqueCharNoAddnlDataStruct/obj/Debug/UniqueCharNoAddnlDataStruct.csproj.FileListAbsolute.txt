@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\UniqueCharNoAddnlDataStruct\UniqueCharNoAddnlDataStruct\bin\Debug\UniqueCharNoAddnlDataStruct.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\UniqueCharNoAddnlDataStruct\UniqueCharNoAddnlDataStruct\bin\Debug\UniqueCharNoAddnlDataStruct.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\UniqueCharNoAddnlDataStruct\UniqueCharNoAddnlDataStruct\bin\Debug\UniqueCharNoAddnlDataStruct.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\UniqueCharNoAddnlDataStruct\UniqueCharNoAddnlDataStruct\obj\Debug\UniqueCharNoAddnlDataStruct.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\UniqueCharNoAddnlDataStruct\UniqueCharNoAddnlDataStruct\obj\Debug\UniqueCharNoAddnlDataStruct.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\UniqueCharNoAddnlDataStruct\UniqueCharNoAddnlDataStruct\obj\Debug\UniqueCharNoAddnlDataStruct.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\UniqueCharNoAddnlDataStruct\UniqueCharNoAddnlDataStruct\bin\Debug\UniqueCharNoAddnlDataStruct.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\UniqueCharNoAddnlDataStruct\UniqueCharNoAddnlDataStruct\obj\Debug\UniqueCharNoAddnlDataStruct.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\UniqueCharNoAddnlDataStruct\UniqueCharNoAddnlDataStruct\obj\Debug\UniqueCharNoAddnlDataStruct.pdb

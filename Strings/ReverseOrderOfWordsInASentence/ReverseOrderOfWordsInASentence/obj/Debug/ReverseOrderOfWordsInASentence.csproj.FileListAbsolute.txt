@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseOrderOfWordsInASentence\ReverseOrderOfWordsInASentence\bin\Debug\ReverseOrderOfWordsInASentence.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseOrderOfWordsInASentence\ReverseOrderOfWordsInASentence\bin\Debug\ReverseOrderOfWordsInASentence.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseOrderOfWordsInASentence\ReverseOrderOfWordsInASentence\bin\Debug\ReverseOrderOfWordsInASentence.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseOrderOfWordsInASentence\ReverseOrderOfWordsInASentence\obj\Debug\ReverseOrderOfWordsInASentence.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseOrderOfWordsInASentence\ReverseOrderOfWordsInASentence\obj\Debug\ReverseOrderOfWordsInASentence.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseOrderOfWordsInASentence\ReverseOrderOfWordsInASentence\obj\Debug\ReverseOrderOfWordsInASentence.pdb

@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseWordsInASentence\ReverseWordsInASentence\bin\Debug\ReverseWordsInASentence.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseWordsInASentence\ReverseWordsInASentence\bin\Debug\ReverseWordsInASentence.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseWordsInASentence\ReverseWordsInASentence\bin\Debug\ReverseWordsInASentence.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseWordsInASentence\ReverseWordsInASentence\obj\Debug\ReverseWordsInASentence.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseWordsInASentence\ReverseWordsInASentence\obj\Debug\ReverseWordsInASentence.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReverseWordsInASentence\ReverseWordsInASentence\obj\Debug\ReverseWordsInASentence.pdb
