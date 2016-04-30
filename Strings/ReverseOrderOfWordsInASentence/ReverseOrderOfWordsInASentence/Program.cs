@@ -8,22 +8,7 @@ namespace ReverseOrderOfWordsInASentence
 {
     class Program
     {
-        public static void ReverseA(char[] sentence)
-        {
-            int start = 0;
-            int end = sentence.Length - 1;
-            char temp;
-
-            while(start<end)
-            {
-                temp = sentence[start];
-                sentence[start] = sentence[end];
-                sentence[end] = temp;
-                start++;
-                end--;
-            }
-        }
-        public static void ReverseB(char[] sentence,int start, int end)
+        public static void ReverseRange(char[] sentence,int start, int end)
         {
             char temp;
 
@@ -37,22 +22,24 @@ namespace ReverseOrderOfWordsInASentence
             }
         }
 
-        public static string ReverseC(char [] word)
+        public static string ReverseWords(char [] sentence)
         {
             int start = 0;
             int end = 0;
-            for(int i = 0; i<word.Length; i++)
+            for(int i = 0; i<sentence.Length; i++)
             {
-                if(word[i]==' ')
+                if(sentence[i]==' ')
                 {
                     end = i - 1;
-                    ReverseB(word, start, end);
+                    ReverseRange(sentence, start, end);
                     start = i + 1;
                 }
             }
-            end = word.Length - 1;
-            ReverseB(word, start, end);
-            string s = new string(word);
+
+            // We still have to reverse the last word, once the loop is done.
+            end = sentence.Length - 1;
+            ReverseRange(sentence, start, end);
+            string s = new string(sentence);
             return s;
         }
 
@@ -60,8 +47,8 @@ namespace ReverseOrderOfWordsInASentence
         static void Main(string[] args)
         {
             char[] myChar = new char[] { 'I', ' ', 'l', 'o', 'v', 'e', ' ', 't', 'o', ' ', 'c', 'o', 'd', 'e' };
-            ReverseA(myChar);
-            string result = ReverseC(myChar);
+            ReverseRange(myChar, 0, myChar.Length - 1);
+            string result = ReverseWords(myChar);
             Console.WriteLine("{0}", result);
             Console.ReadLine();
         }
