@@ -35,7 +35,7 @@ namespace ReverseAStringTwoPointers
 
         static void Main(string[] args)
         {
-            char[] myChar = new char[] { 'c', 'a', 't' };
+            char[] myChar = new char[] { 'I', ' ', 'l', 'o', 'v', 'e', ' ', 't', 'o', ' ', 'c', 'o', 'd', 'e'};
             string result = ReverseAString(myChar);
             Console.WriteLine("{0}", result);
             Console.ReadLine();
