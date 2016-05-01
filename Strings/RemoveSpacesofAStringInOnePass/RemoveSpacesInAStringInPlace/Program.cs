@@ -29,16 +29,17 @@ namespace RemoveSpacesInAStringInPlace
         {
             int j = 0;
 
-            for (int i = 0; i <= mySentence.Length - 1; i++)
+            for(int i = 0; i<mySentence.Length; i++)
             {
-                if (mySentence[i] != ' ')
+                if (mySentence[i] == ' ') 
+                {
+                    mySentence[j] = '\0';
+                }
+
+                else
                 {
                     mySentence[j] = mySentence[i];
                     j++;
-                }
-                else
-                {
-                    mySentence[j] = '\0';
                 }
             }
 
