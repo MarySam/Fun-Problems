@@ -4,3 +4,6 @@ C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LongestCommonSubsequence\Longes
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.csprojResolveAssemblyReference.cache
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.exe
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\LongestCommonSubsequence\LongestCommonSubsequence\bin\Debug\LongestCommonSubsequence.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\LongestCommonSubsequence\LongestCommonSubsequence\obj\Debug\LongestCommonSubsequence.pdb
