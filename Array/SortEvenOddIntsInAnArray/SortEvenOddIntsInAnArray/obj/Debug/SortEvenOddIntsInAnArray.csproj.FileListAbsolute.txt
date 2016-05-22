@@ -7,3 +7,6 @@ C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SortEvenOddIntsInAnArray\SortEv
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\SortEvenOddIntsInAnArray\SortEvenOddIntsInAnArray\bin\Debug\SortEvenOddIntsInAnArray.exe.config
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\SortEvenOddIntsInAnArray\SortEvenOddIntsInAnArray\obj\Debug\SortEvenOddIntsInAnArray.exe
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\SortEvenOddIntsInAnArray\SortEvenOddIntsInAnArray\obj\Debug\SortEvenOddIntsInAnArray.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\SortEvenOddIntsInAnArray\SortEvenOddIntsInAnArray\bin\Debug\SortEvenOddIntsInAnArray.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\SortEvenOddIntsInAnArray\SortEvenOddIntsInAnArray\bin\Debug\SortEvenOddIntsInAnArray.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\SortEvenOddIntsInAnArray\SortEvenOddIntsInAnArray\obj\Debug\SortEvenOddIntsInAnArray.csprojResolveAssemblyReference.cache

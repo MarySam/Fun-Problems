@@ -4,3 +4,6 @@ C:\Users\Mary\Documents\Kal Academy\Fun-Problems\4_StringCompression\4_StringCom
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\4_StringCompression\4_StringCompression\obj\Debug\4_StringCompression.csprojResolveAssemblyReference.cache
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\4_StringCompression\4_StringCompression\obj\Debug\4_StringCompression.exe
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\4_StringCompression\4_StringCompression\obj\Debug\4_StringCompression.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\4_StringCompression\4_StringCompression\bin\Debug\4_StringCompression.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\4_StringCompression\4_StringCompression\obj\Debug\4_StringCompression.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\4_StringCompression\4_StringCompression\obj\Debug\4_StringCompression.pdb
