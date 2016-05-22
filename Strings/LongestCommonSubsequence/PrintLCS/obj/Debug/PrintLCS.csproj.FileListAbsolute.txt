@@ -1,0 +1,6 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\LongestCommonSubsequence\PrintLCS\bin\Debug\PrintLCS.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\LongestCommonSubsequence\PrintLCS\bin\Debug\PrintLCS.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\LongestCommonSubsequence\PrintLCS\bin\Debug\PrintLCS.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\LongestCommonSubsequence\PrintLCS\obj\Debug\PrintLCS.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\LongestCommonSubsequence\PrintLCS\obj\Debug\PrintLCS.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\LongestCommonSubsequence\PrintLCS\obj\Debug\PrintLCS.pdb
