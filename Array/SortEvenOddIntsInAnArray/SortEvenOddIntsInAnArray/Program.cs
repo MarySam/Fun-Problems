@@ -43,7 +43,7 @@ namespace SortEvenOddIntsInAnArray
         }
         static void Main(string[] args)
         {
-            int[] A = new int[] { 2,16,9,12,1 };
+            int[] A = new int[] { 2,16,9,12,4 };
             EvenOdd(A);
             foreach (int v in A)
             {

@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveDuplicateUnsortedHashset\RemoveDuplicateUnsortedHashset\bin\Debug\RemoveDuplicateUnsortedHashset.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveDuplicateUnsortedHashset\RemoveDuplicateUnsortedHashset\bin\Debug\RemoveDuplicateUnsortedHashset.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveDuplicateUnsortedHashset\RemoveDuplicateUnsortedHashset\bin\Debug\RemoveDuplicateUnsortedHashset.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveDuplicateUnsortedHashset\RemoveDuplicateUnsortedHashset\obj\Debug\RemoveDuplicateUnsortedHashset.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveDuplicateUnsortedHashset\RemoveDuplicateUnsortedHashset\obj\Debug\RemoveDuplicateUnsortedHashset.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveDuplicateUnsortedHashset\RemoveDuplicateUnsortedHashset\obj\Debug\RemoveDuplicateUnsortedHashset.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RemoveDuplicateUnsortedHashset\RemoveDuplicateUnsortedHashset\bin\Debug\RemoveDuplicateUnsortedHashset.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RemoveDuplicateUnsortedHashset\RemoveDuplicateUnsortedHashset\obj\Debug\RemoveDuplicateUnsortedHashset.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RemoveDuplicateUnsortedHashset\RemoveDuplicateUnsortedHashset\obj\Debug\RemoveDuplicateUnsortedHashset.pdb
