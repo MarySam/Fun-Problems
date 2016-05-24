@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\EvenOddInNewArray\EvenOddInNewArray\bin\Debug\EvenOddInNewArray.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\EvenOddInNewArray\EvenOddInNewArray\bin\Debug\EvenOddInNewArray.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\EvenOddInNewArray\EvenOddInNewArray\bin\Debug\EvenOddInNewArray.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\EvenOddInNewArray\EvenOddInNewArray\obj\Debug\EvenOddInNewArray.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\EvenOddInNewArray\EvenOddInNewArray\obj\Debug\EvenOddInNewArray.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\EvenOddInNewArray\EvenOddInNewArray\obj\Debug\EvenOddInNewArray.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\EvenOddInNewArray\EvenOddInNewArray\bin\Debug\EvenOddInNewArray.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\EvenOddInNewArray\EvenOddInNewArray\obj\Debug\EvenOddInNewArray.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\EvenOddInNewArray\EvenOddInNewArray\obj\Debug\EvenOddInNewArray.pdb

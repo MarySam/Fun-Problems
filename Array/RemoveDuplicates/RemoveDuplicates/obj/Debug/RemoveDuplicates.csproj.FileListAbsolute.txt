@@ -7,3 +7,6 @@ C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveDuplicates\RemoveDuplicat
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RemoveDuplicates\RemoveDuplicates\bin\Debug\RemoveDuplicates.exe.config
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RemoveDuplicates\RemoveDuplicates\obj\Debug\RemoveDuplicates.exe
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RemoveDuplicates\RemoveDuplicates\obj\Debug\RemoveDuplicates.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RemoveDuplicates\RemoveDuplicates\bin\Debug\RemoveDuplicates.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RemoveDuplicates\RemoveDuplicates\bin\Debug\RemoveDuplicates.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\RemoveDuplicates\RemoveDuplicates\obj\Debug\RemoveDuplicates.csprojResolveAssemblyReference.cache
