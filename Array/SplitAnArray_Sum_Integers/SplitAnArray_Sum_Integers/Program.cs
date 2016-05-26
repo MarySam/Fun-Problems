@@ -21,24 +21,26 @@ namespace SplitAnArray_Sum_Integers
             Console.ReadLine();
         }
 
-        public static void SplitArraySum(int[] myArray)
+        public static void SplitArraySum(int[] A)
         {
             int sum = 0;
-            for (int i = 0; i < myArray.Length; i++)
+            for (int i = 0; i < A.Length; i++)
             {
-                sum += myArray[i];
+                sum += A[i];
             }
 
             int target = (sum / 2);
-            int temp;
+            int end = A.Length - 1;
+            int temp = 0;
 
-            for (int i = 0; i < myArray.Length; i++)
+            for (int i = 0; i < A.Length; i++)
             {
-                if (myArray[i] == target)
+                if (A[i] == target)
                 {
-                    temp = myArray[myArray.Length - 1];
-                    myArray[myArray.Length - 1] = myArray[i];
-                    myArray[i] = temp;
+                    temp = A[end];
+                    A[end] = A[i];
+                    A[i] = temp;
+                    break;
                 }
             }
         }
