@@ -18,12 +18,19 @@ namespace ReverseALinkedListIteratively
 
             DisplayLinkedList(listA);
 
+            Console.WriteLine("ListA has been reversed");
+            DisplayLinkedList(listA);
+        }
+
+        public static void ReverseLinkedList(LinkedList ListA)
+        {
             Node prev = null;
             Node curr = null;
             Node next = null;
 
-            curr = listA.Head;
-            while(curr !=null)
+            curr = ListA.Head;
+            
+            while(curr!=null)
             {
                 //Save the next pointer.
                 next = curr.Next;
@@ -35,10 +42,8 @@ namespace ReverseALinkedListIteratively
                 curr = next;
             }
 
-            listA.Head = prev;
-
-            Console.WriteLine("ListA has been reversed");
-            DisplayLinkedList(listA);
+            ListA.Head = prev;
+            
         }
 
         private static void DisplayLinkedList(LinkedList list)

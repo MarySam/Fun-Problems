@@ -17,12 +17,10 @@ namespace SinglyLinkedListPalindrome
             listA.AddLast("o");
             listA.AddLast("r");
 
-            Node curr = null;
-
             Stack<string> myStack = new Stack<string>();
 
             //Pushing Values into the Stack. 
-            curr = listA.Head;
+            Node curr = listA.Head;
             while (curr != null)
             {
                 //Gets the value of the node and converts it into a string.

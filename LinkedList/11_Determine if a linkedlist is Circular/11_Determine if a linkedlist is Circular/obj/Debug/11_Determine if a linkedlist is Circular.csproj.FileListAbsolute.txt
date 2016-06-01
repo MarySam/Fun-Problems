@@ -1,0 +1,2 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\11_Determine if a linkedlist is Circular\11_Determine if a linkedlist is Circular\bin\Debug\11_Determine if a linkedlist is Circular.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedList\11_Determine if a linkedlist is Circular\11_Determine if a linkedlist is Circular\bin\Debug\11_Determine if a linkedlist is Circular.exe.config

@@ -1,1 +1,2 @@
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedListPalindromeFastSlowPointers\LinkedListPalindromeFastSlowPointers\bin\Debug\LinkedListPalindromeFastSlowPointers.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedList\LinkedListPalindromeFastSlowPointers\LinkedListPalindromeFastSlowPointers\bin\Debug\LinkedListPalindromeFastSlowPointers.exe.config

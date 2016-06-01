@@ -4,3 +4,6 @@ C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SinglyLinkedListPalindrome\Sing
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SinglyLinkedListPalindrome\SinglyLinkedListPalindrome\obj\Debug\SinglyLinkedListPalindrome.csprojResolveAssemblyReference.cache
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SinglyLinkedListPalindrome\SinglyLinkedListPalindrome\obj\Debug\SinglyLinkedListPalindrome.exe
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\SinglyLinkedListPalindrome\SinglyLinkedListPalindrome\obj\Debug\SinglyLinkedListPalindrome.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedList\SinglyLinkedListPalindrome\SinglyLinkedListPalindrome\bin\Debug\SinglyLinkedListPalindrome.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedList\SinglyLinkedListPalindrome\SinglyLinkedListPalindrome\obj\Debug\SinglyLinkedListPalindrome.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedList\SinglyLinkedListPalindrome\SinglyLinkedListPalindrome\obj\Debug\SinglyLinkedListPalindrome.pdb
