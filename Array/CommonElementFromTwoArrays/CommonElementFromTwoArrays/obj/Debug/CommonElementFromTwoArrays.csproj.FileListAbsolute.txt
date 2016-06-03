@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CommonElementFromTwoArrays\CommonElementFromTwoArrays\bin\Debug\CommonElementFromTwoArrays.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CommonElementFromTwoArrays\CommonElementFromTwoArrays\bin\Debug\CommonElementFromTwoArrays.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CommonElementFromTwoArrays\CommonElementFromTwoArrays\bin\Debug\CommonElementFromTwoArrays.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CommonElementFromTwoArrays\CommonElementFromTwoArrays\obj\Debug\CommonElementFromTwoArrays.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CommonElementFromTwoArrays\CommonElementFromTwoArrays\obj\Debug\CommonElementFromTwoArrays.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\CommonElementFromTwoArrays\CommonElementFromTwoArrays\obj\Debug\CommonElementFromTwoArrays.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\CommonElementFromTwoArrays\CommonElementFromTwoArrays\bin\Debug\CommonElementFromTwoArrays.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\CommonElementFromTwoArrays\CommonElementFromTwoArrays\obj\Debug\CommonElementFromTwoArrays.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\CommonElementFromTwoArrays\CommonElementFromTwoArrays\obj\Debug\CommonElementFromTwoArrays.pdb
