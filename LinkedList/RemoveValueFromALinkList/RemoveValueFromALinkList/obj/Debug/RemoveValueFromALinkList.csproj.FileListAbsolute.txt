@@ -1,0 +1,2 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveValueFromALinkList\RemoveValueFromALinkList\bin\Debug\RemoveValueFromALinkList.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedList\RemoveValueFromALinkList\RemoveValueFromALinkList\bin\Debug\RemoveValueFromALinkList.exe.config
