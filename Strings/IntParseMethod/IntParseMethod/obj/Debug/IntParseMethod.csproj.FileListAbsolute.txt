@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\IntParseMethod\IntParseMethod\bin\Debug\IntParseMethod.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\IntParseMethod\IntParseMethod\bin\Debug\IntParseMethod.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\IntParseMethod\IntParseMethod\bin\Debug\IntParseMethod.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\IntParseMethod\IntParseMethod\obj\Debug\IntParseMethod.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\IntParseMethod\IntParseMethod\obj\Debug\IntParseMethod.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\IntParseMethod\IntParseMethod\obj\Debug\IntParseMethod.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\IntParseMethod\IntParseMethod\bin\Debug\IntParseMethod.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\IntParseMethod\IntParseMethod\obj\Debug\IntParseMethod.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\IntParseMethod\IntParseMethod\obj\Debug\IntParseMethod.pdb
