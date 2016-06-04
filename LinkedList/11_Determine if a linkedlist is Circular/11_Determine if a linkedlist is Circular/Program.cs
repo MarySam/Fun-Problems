@@ -15,7 +15,7 @@ namespace _11_Determine_if_a_linkedlist_is_Circular
 
             while(fast!=null)
             {
-                if(slow!=null)
+                if(slow!=fast)
                 {
                     slow = slow.Next;
                     fast = fast.Next.Next;
