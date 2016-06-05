@@ -1,0 +1,2 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\MiddleOfLinkedList\MiddleOfLinkedList\bin\Debug\MiddleOfLinkedList.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedList\MiddleOfLinkedList\MiddleOfLinkedList\bin\Debug\MiddleOfLinkedList.exe.config
