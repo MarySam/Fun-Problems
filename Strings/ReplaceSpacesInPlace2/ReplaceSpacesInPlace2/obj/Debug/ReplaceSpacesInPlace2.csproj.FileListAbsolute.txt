@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInPlace2\ReplaceSpacesInPlace2\bin\Debug\ReplaceSpacesInPlace2.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInPlace2\ReplaceSpacesInPlace2\bin\Debug\ReplaceSpacesInPlace2.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInPlace2\ReplaceSpacesInPlace2\bin\Debug\ReplaceSpacesInPlace2.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInPlace2\ReplaceSpacesInPlace2\obj\Debug\ReplaceSpacesInPlace2.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInPlace2\ReplaceSpacesInPlace2\obj\Debug\ReplaceSpacesInPlace2.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\ReplaceSpacesInPlace2\ReplaceSpacesInPlace2\obj\Debug\ReplaceSpacesInPlace2.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\ReplaceSpacesInPlace2\ReplaceSpacesInPlace2\bin\Debug\ReplaceSpacesInPlace2.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\ReplaceSpacesInPlace2\ReplaceSpacesInPlace2\obj\Debug\ReplaceSpacesInPlace2.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\ReplaceSpacesInPlace2\ReplaceSpacesInPlace2\obj\Debug\ReplaceSpacesInPlace2.pdb

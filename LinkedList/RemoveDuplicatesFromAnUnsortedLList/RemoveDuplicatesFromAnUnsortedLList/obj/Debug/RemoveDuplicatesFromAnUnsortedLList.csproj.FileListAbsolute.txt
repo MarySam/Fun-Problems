@@ -1,1 +1,2 @@
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveDuplicatesFromAnUnsortedLList\RemoveDuplicatesFromAnUnsortedLList\bin\Debug\RemoveDuplicatesFromAnUnsortedLList.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\LinkedList\RemoveDuplicatesFromAnUnsortedLList\RemoveDuplicatesFromAnUnsortedLList\bin\Debug\RemoveDuplicatesFromAnUnsortedLList.exe.config

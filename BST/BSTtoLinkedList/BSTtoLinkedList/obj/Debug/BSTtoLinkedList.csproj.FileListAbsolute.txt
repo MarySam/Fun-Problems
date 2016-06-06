@@ -1,1 +1,2 @@
 C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BSTtoLinkedList\BSTtoLinkedList\bin\Debug\BSTtoLinkedList.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\BST\BSTtoLinkedList\BSTtoLinkedList\bin\Debug\BSTtoLinkedList.exe.config
