@@ -1,9 +1,0 @@
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\4_Find1Duplicate\4_Find1Duplicate\bin\Debug\4_Find1Duplicate.exe.config
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\4_Find1Duplicate\4_Find1Duplicate\bin\Debug\4_Find1Duplicate.exe
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\4_Find1Duplicate\4_Find1Duplicate\bin\Debug\4_Find1Duplicate.pdb
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\4_Find1Duplicate\4_Find1Duplicate\obj\Debug\4_Find1Duplicate.csprojResolveAssemblyReference.cache
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\4_Find1Duplicate\4_Find1Duplicate\obj\Debug\4_Find1Duplicate.exe
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\4_Find1Duplicate\4_Find1Duplicate\obj\Debug\4_Find1Duplicate.pdb
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\4_Find1Duplicate\4_Find1Duplicate\bin\Debug\4_Find1Duplicate.exe.config
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\4_Find1Duplicate\4_Find1Duplicate\obj\Debug\4_Find1Duplicate.exe
-C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Array\4_Find1Duplicate\4_Find1Duplicate\obj\Debug\4_Find1Duplicate.pdb
