@@ -1,0 +1,9 @@
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesCopyFromTo\RemoveSpacesCopyFromTo\bin\Debug\RemoveSpacesCopyFromTo.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesCopyFromTo\RemoveSpacesCopyFromTo\bin\Debug\RemoveSpacesCopyFromTo.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesCopyFromTo\RemoveSpacesCopyFromTo\bin\Debug\RemoveSpacesCopyFromTo.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesCopyFromTo\RemoveSpacesCopyFromTo\obj\Debug\RemoveSpacesCopyFromTo.csprojResolveAssemblyReference.cache
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesCopyFromTo\RemoveSpacesCopyFromTo\obj\Debug\RemoveSpacesCopyFromTo.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\RemoveSpacesCopyFromTo\RemoveSpacesCopyFromTo\obj\Debug\RemoveSpacesCopyFromTo.pdb
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\RemoveSpacesCopyFromTo\RemoveSpacesCopyFromTo\bin\Debug\RemoveSpacesCopyFromTo.exe.config
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\RemoveSpacesCopyFromTo\RemoveSpacesCopyFromTo\obj\Debug\RemoveSpacesCopyFromTo.exe
+C:\Users\Mary\Documents\Kal Academy\Fun-Problems\Strings\RemoveSpacesCopyFromTo\RemoveSpacesCopyFromTo\obj\Debug\RemoveSpacesCopyFromTo.pdb

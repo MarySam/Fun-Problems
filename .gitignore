@@ -5,3 +5,5 @@
 /SumOfArrayIntegers/.vs/SumOfArrayIntegers/v14
 /SumOfArrayIntegers/SumOfArrayIntegers/bin/Debug
 /SumOfArrayIntegers/SumOfArrayIntegers/obj/Debug
+
+*.suo
